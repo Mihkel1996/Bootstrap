@@ -139,3 +139,27 @@ h1 {
 .pricing-column {
     padding: 3% 2%;
 }
+
+#cta {
+    background-color: var(--santa-red);
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+#cta h3 {
+    font-family: 'Montserrat';
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
+    line-height: 1.5;
+    font-weight: 900;
+}
+
+.cta-btn {
+    margin: 3% 5% 3% 5%;
+}
+
+#footer {
+    text-align: center;
+}
